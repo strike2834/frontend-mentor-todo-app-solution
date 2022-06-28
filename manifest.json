@@ -1,7 +1,7 @@
 {
   "name": "preact-app",
   "short_name": "preact-app",
-  "start_url": "/",
+  "start_url": "/frontend-mentor-todo-app-solution/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
